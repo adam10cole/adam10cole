@@ -1,4 +1,4 @@
-## Hi, I'm Adam! 👋
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Adam.+Nice+to+see+you+here!)](https://git.io/typing-svg)
 
 <!--
 **adam10cole/adam10cole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
